@@ -5,7 +5,7 @@ module.exports = {
       name: `Charles Freitas`,
       summary: `Owned by my Dogs`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Sample site for testing Gatsby Hosting.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
   },
   plugins: [
